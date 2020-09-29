@@ -1,0 +1,1 @@
+/home/fim/Code/test/vue-rust-skeleton-master/wasm/target/wasm32-unknown-unknown/debug/libvue_rust_skeleton.rlib: /home/fim/Code/test/vue-rust-skeleton-master/wasm/src/lib.rs /home/fim/Code/test/vue-rust-skeleton-master/wasm/src/utils.rs build.rs
